@@ -16,16 +16,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'PokemonsAngular7'`, () => {
+  it(`should have as title 'Pokemons'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('PokemonsAngular7');
+    expect(app.title).toEqual('Pokemons');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('PokemonsAngular7 app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('Pokemons app is running!');
   });
 });

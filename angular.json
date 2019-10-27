@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "PokemonsAngular7": {
+    "Pokemons": {
       "projectType": "application",
       "schematics": {},
       "root": "",
