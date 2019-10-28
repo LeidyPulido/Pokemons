@@ -1,0 +1,32 @@
+<mat-card>
+        <mat-card-title>{{ genName$ | async }}</mat-card-title>
+        <mat-card-subtitle>Region: {{ (region$ | async)?.name }}</mat-card-subtitle>
+        <mat-card-subtitle>
+            Versions:
+            <span *ngFor="let version of versions$ | async">
+                {{ version.name }}
+            </span>
+        </mat-card-subtitle>
+        <mat-card-content>
+            <mat-tab-group>
+                <mat-tab label="Pokemon">
+                    <mat-nav-list>
+                        <a mat-list-item *ngFor="let poke of pokemonSpecies$ | async; trackBy: trackByFn"
+                            (click)="goToSpecies(poke)">{{ poke?.name }}</a>
+                    </mat-nav-list>
+                </mat-tab>
+                <mat-tab label="Moves">
+                    <mat-nav-list>
+                        <a mat-list-item *ngFor="let move of moves$ | async; trackBy: trackByFn"
+                            (click)="goToMove(move)">{{ move?.name }}</a>
+                    </mat-nav-list>
+                </mat-tab>
+                <mat-tab label="Abilities">
+                    <mat-nav-list>
+                        <a mat-list-item *ngFor="let ability of abilities$ | async; trackBy: trackByFn"
+                            [href]="ability.url">{{ ability.name }}</a>
+                    </mat-nav-list>
+                </mat-tab>
+            </mat-tab-group>
+        </mat-card-content>
+    </mat-card>

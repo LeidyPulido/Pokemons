@@ -1,0 +1,21 @@
+<div class="toolbar" role="banner">
+        <img width="95" alt="Pokemon Logo" src="../assets/pokemon-logo.png"/>
+        <span>Pokemons Go</span>
+          <div class="spacer"></div>
+</div>
+<mat-toolbar color="primary" class="mat-elevation-z4">
+        <button mat-icon-button (click)="sidenav.toggle()">
+            <mat-icon>menu</mat-icon>
+        </button>
+        <span>ng-pokeAPI</span>
+    </mat-toolbar>
+    <mat-sidenav-container>
+        <mat-sidenav #sidenav mode="side">
+            <button mat-button routerLink="/home">Home</button>
+            <ng-container *ngFor="let generation of generations$ | async; let i = index">
+                <br />
+                <button mat-button routerLink="/generation/{{ i + 1 }}">Generation {{ i + 1 }}</button>
+            </ng-container>
+        </mat-sidenav>
+        <router-outlet></router-outlet>
+    </mat-sidenav-container>
