@@ -1,0 +1,4 @@
+<mat-chip-list>
+    <mat-chip *ngFor="let type of types | async" 
+    [ngStyle]="{'background-color': _color.getColorByName(type.name)}">{{ type.name }}</mat-chip>
+</mat-chip-list>

@@ -1,0 +1,11 @@
+mat-chip-list {
+    display: inline-block;
+    padding-left: 20px;    
+}
+
+mat-chip {
+    /* The widest type text results in a 47px width; for consistency, we make them all that size */
+    width: 47px;
+    display: block;
+    text-align: center;
+}
