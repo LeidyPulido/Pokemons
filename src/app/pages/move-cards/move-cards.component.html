@@ -1,1 +1,6 @@
-
+<mat-card>
+    <mat-card-title>
+        {{ moveName$ | async }}
+        <type-chips [types]="types$"></type-chips>
+    </mat-card-title>
+</mat-card>

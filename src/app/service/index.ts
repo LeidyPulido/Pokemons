@@ -1,3 +1,3 @@
 export * from './service.component';
-//export * from './color.service';
+export * from './colorService.components';
 export * from './sortService.component';

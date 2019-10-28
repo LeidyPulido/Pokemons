@@ -1,1 +1,22 @@
-<p>species-cards works!</p>
+<mat-card>
+        <mat-card-title>
+            {{ name$ | async }}
+            <type-chips [types]="types$"></type-chips>
+        </mat-card-title>
+        <!-- We use interpolation here in order to prevent a browser error being thrown -->
+        <img src="{{ front_sprite$ | async }}">
+        <img src="{{ back_sprite$ | async }}">
+        <img src="{{ front_shiny_sprite$ | async }}">
+        <img src="{{ back_shiny_sprite$ | async }}">
+        <img src="{{ back_female_sprite$ | async }}">
+        <img src="{{ back_shiny_female_sprite$ | async }}">
+        <img src="{{ front_female_sprite$ | async }}">
+        <img src="{{ front_shiny_female_sprite$ | async }}">
+        <h3>Abilities</h3>
+        <p *ngFor="let ability of abilities$ | async">{{ ability.ability.name }}</p>
+        <h3>Stats</h3>
+        <ng-container *ngFor="let stat of stats$ | async">
+            <p>{{ stat.stat.name }}</p>
+            <p>{{ stat.base_stat }}</p>
+        </ng-container>
+    </mat-card>

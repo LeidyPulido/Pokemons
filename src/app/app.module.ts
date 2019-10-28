@@ -10,16 +10,16 @@ import { MatCardModule, MatButtonModule, MatToolbarModule, MatSidenavModule, Mat
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { HomeComponent } from './pages/home/home.component';
 import { ViewComponent } from './pages/View/View.component';
-import { SpeciesCardsComponent } from './pages/species-cards/species-cards.component';
+import { SpeciesCardComponent } from './pages/species-cards/species-cards.component';
 import { MoveCardsComponent } from './pages/move-cards/move-cards.component'; 
-//import { ColorService } from './services/color.service';
+import { ColorService } from './service/colorService.components';
 import { SortService } from './service/sortService.component';
 import { TypeChipsComponent } from './type-chips/type-chips.component';
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent },
   { path: 'generation/:id', component: ViewComponent },
-  { path: 'species/:id', component: SpeciesCardsComponent },
+  { path: 'species/:id', component: SpeciesCardComponent },
   { path: 'move/:id', component: MoveCardsComponent }, 
   { path: '', redirectTo: '/home', pathMatch: 'full' }
 ];
@@ -30,7 +30,7 @@ const routes: Routes = [
     ServiceComponent,
     HomeComponent,
     ViewComponent,
-    SpeciesCardsComponent,
+    SpeciesCardComponent,
     MoveCardsComponent, 
     TypeChipsComponent,
     PokemonsComponent
