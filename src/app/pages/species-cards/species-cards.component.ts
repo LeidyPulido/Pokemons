@@ -2,7 +2,7 @@ import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { Stat, Ability, Pokemon, Sprites, Form, TypeRef, Type } from '../../interfaces';
 import { ServiceComponent, ColorService, SortService } from '../../service';
 import { Router, ActivatedRoute, ParamMap } from '@angular/router';
-import { Observable } from 'rxjs';
+import { Observable } from 'rxjs'; //Observable
 import { map, switchMap, share } from 'rxjs/operators';
 
 @Component({
