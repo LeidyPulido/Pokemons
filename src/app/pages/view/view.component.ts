@@ -3,7 +3,7 @@ import { Router, ActivatedRoute, ParamMap } from '@angular/router';
 import { ServiceComponent, SortService } from '../../service';
 import { GenerationDetail, PokemonRef, MoveRef, AbilityRef,
     RegionRef, VersionGroupRef, Urlable } from '../../interfaces';
-import { Observable } from 'rxjs';
+import { Observable } from 'rxjs/Observable';
 import { map, share, switchMap } from 'rxjs/operators';
 
 @Component({

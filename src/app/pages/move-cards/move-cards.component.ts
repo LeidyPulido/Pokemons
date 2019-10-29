@@ -1,6 +1,6 @@
 import { Component, OnInit, ViewEncapsulation, ChangeDetectionStrategy } from '@angular/core';
 import { Router, ActivatedRoute, ParamMap } from '@angular/router';
-import { Observable } from 'rxjs';
+import { Observable } from 'rxjs/Observable';
 import { switchMap, share, map } from 'rxjs/operators';
 import { ServiceComponent, ColorService } from '../../service';
 import { MoveDetail, TypeRef } from '../../interfaces';

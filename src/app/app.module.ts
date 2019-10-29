@@ -51,7 +51,7 @@ const routes: Routes = [
     FlexLayoutModule,
     BrowserAnimationsModule
   ],
-  providers: [ServiceComponent, SortService],
+  providers: [ServiceComponent, ColorService, SortService],
   bootstrap: [PokemonsComponent]
 })
 export class AppModule { }

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable } from 'rxjs/Observable';
 import { map } from 'rxjs/operators';
 import { Generations, GenerationRef } from '../../interfaces';
 import { ServiceComponent } from '../../service/service.component';
