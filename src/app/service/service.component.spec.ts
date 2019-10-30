@@ -1,25 +1,15 @@
-import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { TestBed, inject } from '@angular/core/testing';
 
 import { ServiceComponent } from './service.component';
 
 describe('ServiceComponent', () => {
-  let component: ServiceComponent;
-  let fixture: ComponentFixture<ServiceComponent>;
-
-  beforeEach(async(() => {
-    TestBed.configureTestingModule({
-      declarations: [ ServiceComponent ]
-    })
-    .compileComponents();
-  }));
-
   beforeEach(() => {
-    fixture = TestBed.createComponent(ServiceComponent);
-    component = fixture.componentInstance;
-    fixture.detectChanges();
+    TestBed.configureTestingModule({
+      providers: [ServiceComponent]
+    });
   });
 
-  it('should create', () => {
-    expect(component).toBeTruthy();
-  });
+  it('should be created', inject([ServiceComponent], (service: ServiceComponent) => {
+    expect(service).toBeTruthy();
+  }));
 });

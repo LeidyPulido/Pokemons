@@ -32,8 +32,7 @@ const routes: Routes = [
     ViewComponent,
     SpeciesCardComponent,
     MoveCardsComponent, 
-    TypeChipsComponent,
-    PokemonsComponent
+    TypeChipsComponent
   ],
   imports: [
     BrowserModule,
