@@ -8,7 +8,7 @@ import { map, switchMap, share } from 'rxjs/operators';
 @Component({
     selector: 'app-species-cards',
     templateUrl: './species-cards.component.html',
-    styleUrls: ['./species-cards.component.css'],
+    styleUrls: ['./species-cards.component.scss'],
     changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class SpeciesCardComponent implements OnInit {

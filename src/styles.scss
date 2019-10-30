@@ -1,0 +1,55 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+$color-type-normal: #A8A77A;
+$color-type-fire: #EE8130;
+$color-type-water: #6390F0;
+$color-type-electric: #F7D02C;
+$color-type-grass: #7AC74C;
+$color-type-ice: #96D9D6;
+$color-type-fighting: #C22E28;
+$color-type-poison: #A33EA1;
+$color-type-ground: #E2BF65;
+$color-type-flying: #A98FF3;
+$color-type-psychic: #F95587;
+$color-type-bug: #A6B91A;
+$color-type-rock: #B6A136;
+$color-type-ghost: #735797;
+$color-type-dragon: #6F35FC;
+$color-type-dark: #705746;
+$color-type-steel: #B7B7CE;
+$color-type-fairy: #D685AD;
+
+/* Game colors */
+$color-gen1-red: #FF1111;
+$color-gen1-blue: #1111FF;
+$color-gen1-yellow: #FFD733;
+$color-gen2-gold: #DAA520;
+$color-gen2-silver: #C0C0C0;
+$color-gen2-crystal: #4FD9FF;
+$color-gen3-ruby: #A00000;
+$color-gen3-sapphire: #0000A0;
+$color-gen3-emerald: #00A000;
+$color-gen3-firered: #FF7327;
+$color-gen3-leafgreen: #00DD00;
+$color-gen4-diamond: #AAAAFF;
+$color-gen4-pearl: #FFAAAA;
+$color-gen4-platinum: #999999;
+$color-gen4-heartgold: #B69E00;
+$color-gen4-soulsilver: #C0C0E1;
+$color-gen5-black: #444444;
+$color-gen5-white: #E1E1E1;
+$color-gen6-x: #6376B8;
+$color-gen6-y: #ED5540;
+$color-gen6-omegaruby: #CF3025;
+$color-gen6-alphasapphire: #1768D1;
+$color-gen7-sun: #F1912B;
+$color-gen7-moon: #5599CA;
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+}

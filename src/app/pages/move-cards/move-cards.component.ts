@@ -8,7 +8,7 @@ import { MoveDetail, TypeRef } from '../../interfaces';
 @Component({
     selector: 'app-move-card',
     templateUrl: './move-cards.component.html',
-  styleUrls: ['./move-cards.component.css'],
+  styleUrls: ['./move-cards.component.scss'],
     encapsulation: ViewEncapsulation.None,
     changeDetection: ChangeDetectionStrategy.OnPush
 })

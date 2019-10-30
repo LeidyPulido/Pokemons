@@ -1,0 +1,697 @@
+{
+    "abilities": [
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/165\/",
+            "name": "aroma-veil"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/166\/",
+            "name": "flower-veil"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/167\/",
+            "name": "cheek-pouch"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/168\/",
+            "name": "protean"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/169\/",
+            "name": "fur-coat"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/170\/",
+            "name": "magician"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/171\/",
+            "name": "bulletproof"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/172\/",
+            "name": "competitive"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/173\/",
+            "name": "strong-jaw"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/174\/",
+            "name": "refrigerate"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/175\/",
+            "name": "sweet-veil"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/176\/",
+            "name": "stance-change"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/177\/",
+            "name": "gale-wings"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/178\/",
+            "name": "mega-launcher"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/179\/",
+            "name": "grass-pelt"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/180\/",
+            "name": "symbiosis"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/181\/",
+            "name": "tough-claws"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/182\/",
+            "name": "pixilate"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/183\/",
+            "name": "gooey"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/184\/",
+            "name": "aerilate"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/185\/",
+            "name": "parental-bond"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/186\/",
+            "name": "dark-aura"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/187\/",
+            "name": "fairy-aura"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/188\/",
+            "name": "aura-break"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/189\/",
+            "name": "primordial-sea"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/190\/",
+            "name": "desolate-land"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/ability\/191\/",
+            "name": "delta-stream"
+        }
+    ],
+    "name": "generation-vi",
+    "version_groups": [
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/version-group\/15\/",
+            "name": "x-y"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/version-group\/16\/",
+            "name": "omega-ruby-alpha-sapphire"
+        }
+    ],
+    "id": 6,
+    "names": [
+        {
+            "name": "G\u00e9n\u00e9ration VI",
+            "language": {
+                "url": "https:\/\/pokeapi.co\/api\/v2\/language\/5\/",
+                "name": "fr"
+            }
+        },
+        {
+            "name": "Generation VI",
+            "language": {
+                "url": "https:\/\/pokeapi.co\/api\/v2\/language\/6\/",
+                "name": "de"
+            }
+        },
+        {
+            "name": "Generation VI",
+            "language": {
+                "url": "https:\/\/pokeapi.co\/api\/v2\/language\/9\/",
+                "name": "en"
+            }
+        }
+    ],
+    "pokemon_species": [
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/715\/",
+            "name": "noivern"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/713\/",
+            "name": "avalugg"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/711\/",
+            "name": "gourgeist"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/709\/",
+            "name": "trevenant"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/706\/",
+            "name": "goodra"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/705\/",
+            "name": "sliggoo"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/700\/",
+            "name": "sylveon"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/699\/",
+            "name": "aurorus"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/697\/",
+            "name": "tyrantrum"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/695\/",
+            "name": "heliolisk"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/693\/",
+            "name": "clawitzer"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/691\/",
+            "name": "dragalge"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/689\/",
+            "name": "barbaracle"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/687\/",
+            "name": "malamar"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/685\/",
+            "name": "slurpuff"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/683\/",
+            "name": "aromatisse"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/681\/",
+            "name": "aegislash"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/680\/",
+            "name": "doublade"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/678\/",
+            "name": "meowstic"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/675\/",
+            "name": "pangoro"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/673\/",
+            "name": "gogoat"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/671\/",
+            "name": "florges"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/670\/",
+            "name": "floette"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/668\/",
+            "name": "pyroar"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/666\/",
+            "name": "vivillon"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/665\/",
+            "name": "spewpa"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/663\/",
+            "name": "talonflame"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/662\/",
+            "name": "fletchinder"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/660\/",
+            "name": "diggersby"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/658\/",
+            "name": "greninja"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/657\/",
+            "name": "frogadier"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/655\/",
+            "name": "delphox"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/654\/",
+            "name": "braixen"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/652\/",
+            "name": "chesnaught"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/651\/",
+            "name": "quilladin"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/721\/",
+            "name": "volcanion"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/720\/",
+            "name": "hoopa"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/719\/",
+            "name": "diancie"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/718\/",
+            "name": "zygarde"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/717\/",
+            "name": "yveltal"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/716\/",
+            "name": "xerneas"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/714\/",
+            "name": "noibat"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/712\/",
+            "name": "bergmite"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/710\/",
+            "name": "pumpkaboo"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/708\/",
+            "name": "phantump"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/707\/",
+            "name": "klefki"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/704\/",
+            "name": "goomy"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/703\/",
+            "name": "carbink"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/702\/",
+            "name": "dedenne"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/701\/",
+            "name": "hawlucha"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/698\/",
+            "name": "amaura"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/696\/",
+            "name": "tyrunt"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/694\/",
+            "name": "helioptile"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/692\/",
+            "name": "clauncher"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/690\/",
+            "name": "skrelp"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/688\/",
+            "name": "binacle"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/686\/",
+            "name": "inkay"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/684\/",
+            "name": "swirlix"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/682\/",
+            "name": "spritzee"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/679\/",
+            "name": "honedge"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/677\/",
+            "name": "espurr"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/676\/",
+            "name": "furfrou"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/674\/",
+            "name": "pancham"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/672\/",
+            "name": "skiddo"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/669\/",
+            "name": "flabebe"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/667\/",
+            "name": "litleo"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/664\/",
+            "name": "scatterbug"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/661\/",
+            "name": "fletchling"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/659\/",
+            "name": "bunnelby"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/656\/",
+            "name": "froakie"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/653\/",
+            "name": "fennekin"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/pokemon-species\/650\/",
+            "name": "chespin"
+        }
+    ],
+    "moves": [
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/621\/",
+            "name": "hyperspace-fury"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/620\/",
+            "name": "dragon-ascent"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/619\/",
+            "name": "precipice-blades"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/618\/",
+            "name": "origin-pulse"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/617\/",
+            "name": "light-of-ruin"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/616\/",
+            "name": "lands-wrath"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/615\/",
+            "name": "thousand-waves"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/614\/",
+            "name": "thousand-arrows"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/613\/",
+            "name": "oblivion-wing"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/612\/",
+            "name": "power-up-punch"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/611\/",
+            "name": "infestation"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/610\/",
+            "name": "hold-back"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/609\/",
+            "name": "nuzzle"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/608\/",
+            "name": "baby-doll-eyes"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/607\/",
+            "name": "hold-hands"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/606\/",
+            "name": "celebrate"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/605\/",
+            "name": "dazzling-gleam"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/604\/",
+            "name": "electric-terrain"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/603\/",
+            "name": "happy-hour"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/602\/",
+            "name": "magnetic-flux"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/601\/",
+            "name": "geomancy"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/600\/",
+            "name": "powder"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/599\/",
+            "name": "venom-drench"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/598\/",
+            "name": "eerie-impulse"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/597\/",
+            "name": "aromatic-mist"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/596\/",
+            "name": "spiky-shield"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/595\/",
+            "name": "mystical-fire"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/594\/",
+            "name": "water-shuriken"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/593\/",
+            "name": "hyperspace-hole"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/592\/",
+            "name": "steam-eruption"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/591\/",
+            "name": "diamond-storm"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/590\/",
+            "name": "confide"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/589\/",
+            "name": "play-nice"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/588\/",
+            "name": "kings-shield"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/587\/",
+            "name": "fairy-lock"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/586\/",
+            "name": "boomburst"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/585\/",
+            "name": "moonblast"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/584\/",
+            "name": "fairy-wind"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/583\/",
+            "name": "play-rough"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/582\/",
+            "name": "electrify"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/581\/",
+            "name": "misty-terrain"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/580\/",
+            "name": "grassy-terrain"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/579\/",
+            "name": "flower-shield"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/578\/",
+            "name": "crafty-shield"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/577\/",
+            "name": "draining-kiss"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/576\/",
+            "name": "topsy-turvy"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/575\/",
+            "name": "parting-shot"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/574\/",
+            "name": "disarming-voice"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/573\/",
+            "name": "freeze-dry"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/572\/",
+            "name": "petal-blizzard"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/571\/",
+            "name": "forests-curse"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/570\/",
+            "name": "parabolic-charge"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/569\/",
+            "name": "ion-deluge"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/568\/",
+            "name": "noble-roar"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/567\/",
+            "name": "trick-or-treat"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/566\/",
+            "name": "phantom-force"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/565\/",
+            "name": "fell-stinger"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/564\/",
+            "name": "sticky-web"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/563\/",
+            "name": "rototiller"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/562\/",
+            "name": "belch"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/561\/",
+            "name": "mat-block"
+        },
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/move\/560\/",
+            "name": "flying-press"
+        }
+    ],
+    "main_region": {
+        "url": "https:\/\/pokeapi.co\/api\/v2\/region\/6\/",
+        "name": "kalos"
+    },
+    "types": [
+        {
+            "url": "https:\/\/pokeapi.co\/api\/v2\/type\/18\/",
+            "name": "fairy"
+        }
+    ]
+}

@@ -7,7 +7,7 @@ import { ServiceComponent } from '../../service/service.component';
 @Component({
   selector: 'app-pokemons',
   templateUrl: './pokemons.component.html',
-  styleUrls: ['./pokemons.component.css']
+  styleUrls: ['./pokemons.component.scss']
 })
 export class PokemonsComponent implements OnInit {
   generations$: Observable<Array<GenerationRef>>;
